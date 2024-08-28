@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arthur-Prc
-- 👀 I’m interested in AI, Security, nocode. 
+- 👀 I’m interested in AI, Security, nocode, IoT. 
 - 🌱 I’m currently learning Web3 and AI. 
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me arthurprc.dss@gmail.com
