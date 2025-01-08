@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React, Electron, and No-Code tools for product marketing launches. 
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: LinkedIn or Upwork.
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I worked remotely full-time since 2017.
 
 <!---
