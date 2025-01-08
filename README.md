@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: LinkedIn or Upwork.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I worked remotely since 2017 and never had a regular job.
+- ⚡ Fun fact: I worked remotely full-time since 2017.
 
 <!---
 Arthur-Prc/Arthur-Prc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
