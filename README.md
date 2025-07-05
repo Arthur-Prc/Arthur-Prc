@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arthur-Prc
 - 👀 I’m interested in AI, Security, No-Code, IoT, Electron, React. 
-- 🌱 I’m currently learning React, Electron, and No-Code tools for product marketing launches. 
+- 🌱 I’m currently learning Python, React, Electron, and No-Code tools for product marketing launches. 
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: LinkedIn or Upwork.
 - ⚡ Fun fact: I worked remotely full-time since 2017.
