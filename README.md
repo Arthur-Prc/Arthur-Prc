@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arthur-Prc
 - 👀 I’m interested in AI, Security.
-- 🌱 I’m currently learning RMM tools. 
+- 🌱 I’m currently learning SOC2 Compliance. 
 - 💞️ I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: LinkedIn.
+- 📫 How to reach me: LinkedIn, Upwork.
 - ⚡ Fun fact: I worked remotely full-time since 2017.
 
 <!---
